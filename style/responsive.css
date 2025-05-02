@@ -1,0 +1,1737 @@
+
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+
+  .page-width{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+  width: fit-content;
+}
+header .icon {
+width: 20%;
+}
+
+header .nav {
+width: 50%;
+}
+
+header .call {
+width: 30%;
+}
+
+header .icon img {
+width: 60%;
+}
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  @media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+
+  .page-width{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+  width: fit-content;
+}
+header .icon {
+width: 20%;
+}
+
+header .nav {
+width: 50%;
+}
+
+header .call {
+width: 30%;
+}
+
+header .icon img {
+width: 60%;
+}
+  
+}
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+
+  body{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;}
+
+  header{
+    width: 1200px;
+    padding: 20px 20px;
+  }
+  
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+
+  .page-width{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+  width: fit-content;
+}
+header .icon {
+width: 20%;
+}
+
+header .nav {
+width: 50%;
+}
+
+header .call {
+width: 30%;
+}
+
+header .icon img {
+width: 60%;
+}
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  @media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+
+  .page-width{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+  width: fit-content;
+}
+header .icon {
+width: 20%;
+}
+
+header .nav {
+width: 50%;
+}
+
+header .call {
+width: 30%;
+}
+
+header .icon img {
+width: 60%;
+}
+  
+}
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+
+  body{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;}
+
+  header{
+    width: 1200px;
+    padding: 20px 20px;
+  }
+  
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+
+  .page-width{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+  width: fit-content;
+}
+header .icon {
+width: 20%;
+}
+
+header .nav {
+width: 50%;
+}
+
+header .call {
+width: 30%;
+}
+
+header .icon img {
+width: 60%;
+}
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  @media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+
+  .page-width{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+  width: fit-content;
+}
+header .icon {
+width: 20%;
+}
+
+header .nav {
+width: 50%;
+}
+
+header .call {
+width: 30%;
+}
+
+header .icon img {
+width: 60%;
+}
+  
+}
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+
+  body{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;}
+
+  header{
+    width: 1200px;
+    padding: 20px 20px;
+  }
+  
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+
+  .page-width{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+  width: fit-content;
+}
+header .icon {
+width: 20%;
+}
+
+header .nav {
+width: 50%;
+}
+
+header .call {
+width: 30%;
+}
+
+header .icon img {
+width: 60%;
+}
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  @media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+
+  .page-width{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+  width: fit-content;
+}
+header .icon {
+width: 20%;
+}
+
+header .nav {
+width: 50%;
+}
+
+header .call {
+width: 30%;
+}
+
+header .icon img {
+width: 60%;
+}
+  
+}
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+
+  body{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;}
+
+  header{
+    width: 1200px;
+    padding: 20px 20px;
+  }
+  
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+
+  .page-width{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+  width: fit-content;
+}
+header .icon {
+width: 20%;
+}
+
+header .nav {
+width: 50%;
+}
+
+header .call {
+width: 30%;
+}
+
+header .icon img {
+width: 60%;
+}
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  @media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+
+  .page-width{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+  width: fit-content;
+}
+header .icon {
+width: 20%;
+}
+
+header .nav {
+width: 50%;
+}
+
+header .call {
+width: 30%;
+}
+
+header .icon img {
+width: 60%;
+}
+  
+}
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+
+  body{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;}
+
+  header{
+    width: 1200px;
+    padding: 20px 20px;
+  }
+  
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+
+  .page-width{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+  width: fit-content;
+}
+header .icon {
+width: 20%;
+}
+
+header .nav {
+width: 50%;
+}
+
+header .call {
+width: 30%;
+}
+
+header .icon img {
+width: 60%;
+}
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  @media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+
+  .page-width{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+  width: fit-content;
+}
+header .icon {
+width: 20%;
+}
+
+header .nav {
+width: 50%;
+}
+
+header .call {
+width: 30%;
+}
+
+header .icon img {
+width: 60%;
+}
+  
+}
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+
+  body{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;}
+
+  header{
+    width: 1200px;
+    padding: 20px 20px;
+  }
+  
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+
+  .page-width{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+  width: fit-content;
+}
+header .icon {
+width: 20%;
+}
+
+header .nav {
+width: 50%;
+}
+
+header .call {
+width: 30%;
+}
+
+header .icon img {
+width: 60%;
+}
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  @media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+
+  .page-width{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+  width: fit-content;
+}
+header .icon {
+width: 20%;
+}
+
+header .nav {
+width: 50%;
+}
+
+header .call {
+width: 30%;
+}
+
+header .icon img {
+width: 60%;
+}
+  
+}
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+
+  body{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;}
+
+  header{
+    width: 1200px;
+    padding: 20px 20px;
+  }
+  
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+
+  .page-width{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+  width: fit-content;
+}
+header .icon {
+width: 20%;
+}
+
+header .nav {
+width: 50%;
+}
+
+header .call {
+width: 30%;
+}
+
+header .icon img {
+width: 60%;
+}
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  @media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+
+  .page-width{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+  width: fit-content;
+}
+header .icon {
+width: 20%;
+}
+
+header .nav {
+width: 50%;
+}
+
+header .call {
+width: 30%;
+}
+
+header .icon img {
+width: 60%;
+}
+  
+}
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+
+  body{
+    padding: 0px 50px;
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0 auto;}
+
+  header{
+    width: 1200px;
+    padding: 20px 20px;
+  }
+  
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+  header {
+    width: 1200px;
+    padding: 35px 20px;
+}
+
+header .icon {
+    width: 50%;
+}
+header .icon img {
+    width: 45%;
+}
+header .nav {
+  width: 100%;
+  padding: 35px 0px 10px;
+  display: flex;
+  order: 1;
+  justify-content: center;
+}
+
+header .nav ul {
+    display: flex;
+    justify-content: space-around;
+    gap: 80px;
+    align-items: center;
+    align-content: center;
+}
+
+header .call {
+    display: flex;
+    width: 50%;
+    justify-content: flex-end;
+}
+
+header .nav ul li a {
+  font-size: 38px;
+  line-height: 50px;
+}
+
+header .call span {
+font-weight: 16px !important;
+font-size: 30px;
+margin-left: 15px;
+}
+
+.fastBanner {
+width: 1200px;
+padding: 35px 20px;
+}
+
+.fastBanner .flex {
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+align-content: center;
+justify-content: center;
+}
+
+.fastBanner .flex .infoBox {
+gap: 10px;
+display: flex;
+max-width: 100%;
+margin: 0 auto !important;
+order: 2;
+padding: 0px 40px;
+flex-direction: column;
+align-content: center;
+align-items: center;
+}
+
+.fastBanner .flex .imgBox {
+width: 100%;
+display: flex;
+order: 1;
+align-content: center;
+justify-content: center;
+padding-bottom: 60px;
+}
+
+.fastBanner .flex .imgBox img {width: 95%;}
+
+.fastBanner .flex .infoBox .topHead {
+border-radius: 100px;
+width: 70%;
+margin-bottom: 22px !important;
+margin: 0px auto;
+padding: 35px 70px;
+}
+
+.fastBanner .flex .infoBox h1 {
+font-size: 58px;
+font-weight: 700;
+margin-bottom: 10px;
+line-height: 60px !important;
+text-align: center;
+}
+
+.fastBanner .flex .infoBox p {text-align: center;width: 80%;font-size: 34px;line-height: 45px;font-weight: 400;margin: 0 auto;padding: 10px 0px 40px;}
+
+.fastBanner .flex .infoBox .filterBox {
+ 
+width: 80%;
+justify-content: space-around;
+}
+
+
+.fastBanner .flex .infoBox .brandBtn {
+padding-top: 25px;
+width: 100%;
+justify-content: space-between;
+}
+
+.orBG {
+  font-size: 28px;
+  padding: 30px 55px;
+}
+
+.fastBanner .flex .infoBox span {
+  font-size: 28px;
+}
+
+.fastBanner .flex .infoBox .filterBox .box h6 {
+  font-size: 32px;
+}
+
+.fastBanner .flex .infoBox .asBtn a {
+  font-size: 36px;
+}
+
+.fastBanner .flex .infoBox span {
+  font-size: 35px;
+}
+
+.fastBanner .flex .infoBox .brandBtn .box a {
+  font-size: 36px;
+}
+
+.about .flex {
+  gap: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+}
+
+.about .imgBox {
+  max-width: 100%;
+}
+
+.about .infoBox {
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.feture .infoBox span, .about .infoBox span {
+  margin-bottom: 0px;
+  font-size: 34px;
+}
+
+.about .infoBox p {
+  text-align: center;
+  width: 75%;
+  font-size: 34px;
+  line-height: 42px;
+}
+
+.ch {
+  font-size: 58px;
+}
+.about .infoBox .aInBox {
+  width: 95%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+.about .infoBox .aInBox .box {
+  max-width: 70%;
+}
+
+.about .infoBox .aInBox .box p {
+  text-align: left;
+  font-size: 30px;
+  line-height: 38px;
+}
+
+.about .infoBox .aInBox .box i {
+  font-size: 72px;
+  color: var(--cus-red);
+  margin-bottom: 15px;
+}
+
+.about .infoBox .aInBox .box h4 {
+  font-size: 36px;
+}
+
+.about .infoBox .aInBox .box p {
+  font-size: 36px;
+  line-height: 47px;
+}
+
+/* feture section */
+
+.about, .feture {
+  width: 1200px !important;
+  padding: 50px 20px;
+}
+
+.feture .flex {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.feture .infoBox {
+  display: flex;
+  max-width: 100%;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.feture .infoBox h2 {
+  width: 65%;
+  text-align: center;
+}
+
+.feture .infoBox p {
+  width: 80%;
+  text-align: center;
+  font-size: 34px;
+  line-height: 42px;
+}
+
+.feture .infoBox a {
+  font-size: 32px;
+  font-weight: 500;
+  padding: 25px 30px;
+}
+
+.feture .imgBox {
+  max-width: 100%;
+}
+
+
+
+  
+}@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+
+
+
+  header {
+    position: fixed;
+    top: 0;
+    width: 1215px;
+    padding: 35px 20px;
+    z-index: 999999;
+}
+
+header .icon {
+    width: 50%;
+    padding-left: 10px;
+}
+header .icon img {
+    width: 45%;
+}
+header .nav {
+  width: 100%;
+  padding: 35px 0px 10px;
+  display: flex;
+  order: 1;
+  justify-content: center;
+}
+
+header .nav ul {
+    display: flex;
+    justify-content: space-around;
+    gap: 80px;
+    align-items: center;
+    align-content: center;
+}
+
+header .call {
+    display: flex;
+    width: 48%;
+    justify-content: flex-end;
+    padding-right: 10px;
+}
+
+header .nav ul li a {
+  font-size: 38px;
+  line-height: 50px;
+}
+
+header .call span {
+font-weight: 16px !important;
+font-size: 30px;
+margin-left: 15px;
+}
+
+.fastBanner {width: 1200px;padding: 275px 20px 50px;}
+
+.fastBanner .flex {
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+align-content: center;
+justify-content: center;
+}
+
+.fastBanner .flex .infoBox {gap: 10px;display: flex;max-width: 100%;margin: 0 auto !important;order: 2;padding: 25px 40px;flex-direction: column;align-content: center;align-items: center;}
+
+.fastBanner .flex .imgBox {
+width: 100%;
+display: flex;
+order: 1;
+align-content: center;
+justify-content: center;
+padding-bottom: 60px;
+}
+
+.fastBanner .flex .imgBox img {
+width: 80%;
+}
+
+.fastBanner .flex .infoBox .topHead {
+border-radius: 100px;
+width: 70%;
+margin-bottom: 22px !important;
+margin: 0px auto;
+padding: 35px 70px;
+}
+
+.fastBanner .flex .infoBox h1 {
+font-size: 58px;
+font-weight: 700;
+margin-bottom: 10px;
+line-height: 60px !important;
+text-align: center;
+}
+
+.fastBanner .flex .infoBox p {text-align: center;width: 80%;font-size: 34px;line-height: 45px;font-weight: 400;margin: 0 auto;padding: 10px 0px 40px;}
+
+.fastBanner .flex .infoBox .filterBox {
+ 
+width: 80%;
+justify-content: space-around;
+}
+
+
+.fastBanner .flex .infoBox .brandBtn {padding-top: 25px;width: 100%;margin-top: 20px;justify-content: space-between;}
+
+.orBG {
+  font-size: 28px;
+  padding: 30px 55px;
+}
+
+.fastBanner .flex .infoBox span {
+  font-size: 28px;
+}
+
+.fastBanner .flex .infoBox .filterBox .box h6 {
+  font-size: 32px;
+}
+
+.fastBanner .flex .infoBox .asBtn a {
+  font-size: 36px;
+}
+
+.fastBanner .flex .infoBox span {
+  font-size: 35px;
+  margin-top: 20px;
+}
+
+.fastBanner .flex .infoBox .brandBtn .box a {
+  font-size: 36px;
+}
+
+.about .flex {
+  gap: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+}
+
+.about .imgBox {
+  max-width: 100%;
+}
+
+.about .infoBox {
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+  margin-top: 20px;
+  padding: 35px 0px;
+}
+
+.feture .infoBox span, .about .infoBox span {
+  margin-bottom: 0px;
+  font-size: 50px;
+}
+
+.about .infoBox p {
+  text-align: center;
+  width: 75%;
+  font-size: 34px;
+  line-height: 42px;
+}
+
+.ch {
+  font-size: 65px;
+  font-weight: 700 !important;
+}
+.about .infoBox .aInBox {
+  width: 95%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+.about .infoBox .aInBox .box {
+  max-width: 70%;
+}
+
+.about .infoBox .aInBox .box p {
+  text-align: left;
+  font-size: 30px;
+  line-height: 38px;
+}
+
+.about .infoBox .aInBox .box i {
+  font-size: 72px;
+  color: var(--cus-red);
+  margin-bottom: 15px;
+}
+
+.about .infoBox .aInBox .box h4 {
+  font-size: 36px;
+}
+
+.about .infoBox .aInBox .box p {
+  font-size: 36px;
+  line-height: 47px;
+}
+
+/* feture section */
+
+.about, .feture {
+  width: 1200px !important;
+  padding: 50px 20px;
+}
+
+.feture .flex {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.feture .infoBox {
+  display: flex;
+  max-width: 100%;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 25px;
+  padding: 25px 0;
+}
+
+.feture .infoBox h2 {
+  width: 75%;
+  font-weight: 700 !important;
+  font-size: 65px !important;
+  text-align: center;
+}
+
+.feture .infoBox p {
+  width: 80%;
+  text-align: center;
+  font-size: 34px;
+  line-height: 42px;
+}
+
+.feture .infoBox a {
+  font-size: 35px;
+  margin-top: 25px;
+  font-weight: 500;
+  padding: 25px 30px;
+}
+
+.feture .imgBox {
+  max-width: 75%;
+}
+/* feture end */
+
+/* carCart css sratr */
+.carCart {
+  width: 1200px;
+  max-width: 1200px;
+  padding: 50px 20px;
+}
+
+.carCart .box_head h2 {
+  font-size: 65px;
+  font-weight: 700 !important;
+}
+
+.carCart .box_head p {
+  font-size: 34px;
+  width: 70%;
+  line-height: 42px;
+}
+
+.carCart .flex {
+  display: flex;
+  gap: 40px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.carCart .cartBox {
+  width: 70%;
+  height: 1000px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.carCart .cartBox .carCat h6 {
+  font-size: 45px;
+}
+
+.carCart .cartBox .car_Name h3 {
+  font-size: 65px;
+}
+
+.carCart .cartBox .bookBtn a {
+  font-size: 38px;
+  padding: 25px 60px;
+}
+
+.carCart .cartBox .sepcBox {
+  width: 80%;
+}
+
+.carCart .cartBox .sepcBox .childBox h5 {
+  font-size: 22px;
+}
+
+
+.carCart .cartBox .sepcBox .childBox h6 {
+  font-size: 30px;
+}
+
+/* carCart css end */
+
+.bestCar {
+  padding: 50px 20px;
+  width: 1200px;
+  max-width: 1200px;
+}
+
+.bestCar .flex {
+  display: flex;
+  gap: 50px;
+  flex-direction: column;
+}
+
+.bestCar .imgBox {
+  width: 100%;
+  display: flex;
+  border-radius: 15px;
+  overflow: hidden;
+  justify-content: center;
+}
+
+.bestCar .imgBox img {
+  width: 75%;
+}
+
+.bestCar .infoBox {
+  margin-top: 20px;
+  padding-left: 25px 35px;
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}
+
+.bestCar .infoBox span {
+  font-size: 50px;
+}
+
+
+.bestCar .infoBox h2 {
+  font-size: 65px;
+  width: 60%;
+  text-align: center;
+}
+
+.bestCar .infoBox p {
+  width: 80%;
+  font-size: 34px;
+  margin: 5px 0px 20px;
+  line-height: 42px;
+  text-align: center;
+}
+
+.bestCar .infoBox a {
+  font-size: 35px;
+  width: 25%;
+  padding: 25px 30px;
+}
+
+/* call section */
+.callSection {
+  width: 1200px;
+  padding: 50px 28px 115px;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.callSection .flex {
+  width: 90%;
+}
+
+.callSection .flex .mainBox .info {
+  max-width: 100%;
+}
+
+.callSection .flex .mainBox .info h2 {
+  font-size: 47px;
+  line-height: 68px;
+}
+
+.callSection .flex .mainBox .info .btnGrpup {
+  width: 85%;
+}
+
+.imgg {
+  position: absolute;
+  right: 30%;
+  top: 35%;
+}
+
+.callSection .flex .mainBox .info .btnGrpup a {
+  font-size: 30px;
+}
+
+/* call section */
+
+/* footer start */
+footer {
+  padding: 30px 0px;
+  width: 1256px;
+}
+
+footer .copyRighr h6 {
+  font-size: 22px;
+}
+/* footer end */
+
+
+}

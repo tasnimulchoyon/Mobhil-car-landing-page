@@ -1,0 +1,724 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"); * {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Montserrat, sans-serif;
+    box-sizing: border-box;
+}
+
+.page-width {
+    width: 1200px;
+    max-width: 1200px;
+    margin: 0px auto;
+}
+
+:root {
+    --cus-red: #DB2020;
+}
+
+.ch {
+    color: black;
+    font-family: Montserrat, sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.csh {
+    font-weight: 700;
+    color: var(--cus-red);
+    font-size: 18px;
+    line-height: 30px;
+    font-family: Montserrat, sans-serif;
+}
+
+.cp {
+    font-size: 16px;
+    color: rgb(33, 38, 33);
+    line-height: 28px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+}
+
+header {
+    background-color: rgb(255 255 255);
+    padding: 20px 0px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 15px;
+}
+
+header .flex {
+    display: flex;
+    flex-flow: wrap;
+    place-content: center space-between;
+    align-items: center;
+}
+
+header .icon {
+    width: 25%;
+}
+
+header .icon img {
+    width: 50%;
+}
+
+header .nav {
+    width: 55%;
+}
+
+header .nav ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+header .nav ul li {
+    list-style: none;
+    text-decoration: none;
+}
+
+header .nav ul li a {
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.3s;
+}
+
+header .nav ul li a:hover {
+    color: var(--cus-red);
+    border-bottom: 1px solid var(--cus-red);
+}
+
+header .call {
+    display: flex;
+    text-align: right;
+    width: 20%;
+    place-content: flex-end;
+    align-items: center;
+}
+
+header .call a {
+    padding: 13px 32px;
+    background: rgb(253, 234, 234);
+    border: 1px solid rgb(238, 201, 201);
+    text-decoration: none;
+    color: var(--cus-red);
+    border-radius: 8px;
+    transition-duration: 0.3s;
+}
+
+header .call a:hover {
+    background: var(--cus-red);
+    color: rgb(255, 255, 255);
+    border: 1px solid var(--cus-red);
+}
+
+header .call i {
+    font-size: 22px;
+}
+
+header .call span {
+    font-size: 18px;
+    margin-left: 15px;
+}
+
+.fastBanner {
+    padding: 35px 0px 75px;
+}
+
+.fastBanner .flex {
+    gap: 2%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.fastBanner .flex .infoBox {
+    max-width: 60%;
+}
+
+.fastBanner .flex .infoBox .topHead {
+    width: 50%;
+    display: flex;
+    gap: 20px;
+    border-radius: 50px;
+    border: 1px solid rgb(240, 240, 240);
+    background: rgb(240, 240, 240);
+    place-content: center space-around;
+    align-items: center;
+    padding: 15px 20px;
+}
+
+.orBG {
+    color: rgb(255, 255, 255);
+    background: rgb(255, 148, 70);
+    padding: 14px 25px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1.2px;
+    border-radius: 50px;
+}
+
+.fastBanner .flex .infoBox h1 {
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 80px;
+    margin-bottom: 20px;
+}
+
+.fastBanner .flex .infoBox p {
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.fastBanner .flex .infoBox .filterBox {
+    display: flex;
+    flex-flow: wrap;
+    width: 80%;
+    margin-bottom: 25px;
+    place-content: center space-between;
+    background: rgb(255, 255, 255);
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 30px 60px;
+    border: 1px solid white;
+    z-index: 99999;
+    border-radius: 15px;
+}
+
+.box.lastBoxBg {
+    background: rgb(219, 32, 32);
+    border-radius: 10px;
+    color: white;
+    border: 1px solid rgb(219, 32, 32) !important;
+}
+
+.fastBanner .flex .infoBox .filterBox .box {
+    padding: 18px 35px;
+}
+
+.fastBanner .flex .infoBox .filterBox .box h6 {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 600 !important;
+}
+
+.fastBanner .flex .infoBox .asBtn {
+    margin-bottom: 20px;
+}
+
+.fastBanner .flex .infoBox .asBtn a {
+    text-decoration: none;
+    color: rgb(219, 32, 32);
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.fastBanner .flex .infoBox .asBtn a i{
+    opacity: 0;
+}
+
+.fastBanner .flex .infoBox .asBtn a:hover  i{
+    opacity: 1;
+}
+
+.fastBanner .flex .infoBox span {
+    font-weight: 500;
+}
+
+.fastBanner .flex .infoBox .brandBtn {
+    display: flex;
+    flex-flow: wrap;
+    width: 80%;
+    place-content: center space-between;
+    padding: 12px 0px;
+}
+
+.fastBanner .flex .infoBox .brandBtn .box a {
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.fastBanner .flex .imgBox {
+    overflow: hidden;
+    border-radius: 15px;
+    width: 37%;
+    display: flex;
+    order: 1;
+    place-content: center;
+}
+
+.fastBanner .flex .imgBox img {
+    transition-duration: 0.3s;
+    border-radius: 15px;
+    width: 100%;
+}
+
+.fastBanner .flex .imgBox img:hover {
+    transform: scale(1.1);
+}
+
+.about, .feture {
+    padding: 75px 0px;
+}
+
+.about .imgBox img:hover{
+    transform: scale(1.1);
+}
+
+.about .flex {
+    gap: 5%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.about .imgBox {
+    border-radius: 15px;
+    overflow: hidden;
+    display: flex;
+    max-width: 35%;
+}
+
+.about .imgBox img {
+    transition-duration: 0.3s;
+    width: 100%;
+}
+
+.about .infoBox {
+    max-width: 60%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.about .infoBox p {
+    width: 70%;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.about .infoBox .aInBox {
+    padding: 26px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: space-around;
+}
+
+.about .infoBox .aInBox .box {
+    transition: 0.3s;
+    border: 1px solid rgb(255, 255, 255);
+    padding: 15px;
+    max-width: calc(45% - 15px);
+    border-radius: 15px;
+    box-shadow: rgba(31, 85, 87, 0.1) 0px 2px 8px 0px;
+}
+
+.about .infoBox .aInBox .box i {
+    font-size: 36px;
+    color: var(--cus-red);
+    margin-bottom: 15px;
+}
+
+.about .infoBox .aInBox .box h4 {
+    font-size: 22px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.about .infoBox .aInBox .box p {
+    font-size: 12px;
+    line-height: 22px;
+    width: 97%;
+    letter-spacing: 0.2px;
+}
+
+.about .infoBox .aInBox .box:hover {
+    background-color: var(--cus-red);
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+.about .infoBox .aInBox .box:hover i {
+    color: rgb(255, 255, 255);
+}
+
+.about .infoBox .aInBox .box:hover h4 {
+    color: white;
+}
+
+.about .infoBox .aInBox .box:hover p {
+    color: white;
+}
+
+.feture .flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.feture .imgBox {
+    
+    border-radius: 20px;
+    max-width: 45%;
+    display: flex;
+    overflow: hidden;
+}
+
+.feture .imgBox img {
+    border-radius: 20px;
+    width: 100%;
+    transition: 0.3s;
+}
+
+.feture .imgBox img:hover {
+    
+    border-radius: 20px;
+    transform: scale(1.1);
+}
+
+.feture .infoBox {
+    max-width: 55%;
+}
+
+.feture .infoBox span {
+    color: rgb(219, 32, 32);
+}
+
+.feture .infoBox span, .about .infoBox span {
+    margin-bottom: 20px;
+}
+
+.feture .infoBox h2 {
+    margin: 20px 0px;
+    width: 70%;
+}
+
+.feture .infoBox p {
+    width: 80%;
+    font-size: 16px;
+    margin: 5px 0px 20px;
+    line-height: 24px;
+}
+
+.feture .infoBox a {
+    font-size: 14px;
+    text-transform: uppercase;
+    word-spacing: 3.2px;
+    text-decoration: none;
+    border: 1px solid var(--cus-red);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 10px 18px;
+    background: var(--cus-red);
+}
+/* feture section css end */
+
+/* carCart section css start */
+
+
+.carCart{
+    padding: 75px 0px;
+}
+
+.carCart .box_head{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 0px;
+    margin-bottom: 50px;
+}
+.carCart .box_head p{
+    width: 45%;
+    text-align: center;
+}
+
+.carCart .flex{
+    display: flex;
+    gap: 30px;
+    justify-content: space-evenly;
+}
+
+.carCart .cartBox{
+    width: calc(33.33% );
+    height: 550px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+
+.cartBox1{
+    background: url(../img/cart-1.jpg ) center center no-repeat !important;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.648), rgba(0, 0, 0, 0.58)), url(../img/cart-1.jpg) !important;
+}
+
+.cartBox1:hover{
+    background-image: linear-gradient(to bottom, rgba(229, 35, 35, 0.648), rgba(21, 52, 205, 0.589)), url(../img/cart-1.jpg) !important;
+}
+
+.cartBox2{
+    background: url(../img/cartImg2.jpg ) center center no-repeat !important;
+    background-size: cover;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.648), rgba(0, 0, 0, 0.58)), url(../img/cartImg2.jpg) !important;
+}
+.cartBox2:hover{
+    background-image: linear-gradient(to bottom, rgba(229, 35, 35, 0.648), rgba(21, 52, 205, 0.589)), url(../img/cartImg2.jpg) !important;
+}
+.cartBox3:hover{
+    background-image: linear-gradient(to bottom, rgba(229, 35, 35, 0.648), rgba(21, 52, 205, 0.589)), url(../img/cartImg3.jpg) !important;
+}
+
+.cartBox3{
+    background: url(../img/cartImg3.jpg ) center center no-repeat !important;
+    background-size: cover;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.648), rgba(0, 0, 0, 0.58)), url(../img/cartImg3.jpg) !important;
+}
+
+
+
+.carCart .cartBox .carCat h6{
+    color: white;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 3.2px;
+}
+.carCart .cartBox .car_Name h3{
+    font-size: 48px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.carCart .cartBox .bookBtn a{
+    font-size: 23px;
+    text-decoration: none;
+    color: white;
+    background: var(--cus-red);
+    padding: 12px 18px;
+    border-radius: 40px;
+    font-weight: 500;
+}
+
+.carCart .cartBox .bookBtn a:hover{
+    color: var(--cus-red);
+    background-color: #fff;
+}
+
+
+.carCart .cartBox .sepcBox{
+    display: flex;
+    gap: 5px;
+    flex-direction: row;
+    justify-content: space-between;
+} 
+.carCart .cartBox .sepcBox .childBox h5{
+    font-size: 12px;
+    color: #fff;
+    text-transform: capitalize;
+    margin-bottom: 5px;
+    font-weight: 400;
+}
+.carCart .cartBox .sepcBox .childBox h6{
+    color: white;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+
+/* carCart section css end */
+
+/* bestCar section css start */
+.bestCar{
+    padding: 74px 0px;
+}
+
+.bestCar .flex{
+    display: flex;
+    gap: 20px;
+}
+
+.bestCar .imgBox{
+    width: calc(45% - 10px);
+    display: flex;
+    border-radius: 15px;
+    overflow: hidden;
+}
+.bestCar .imgBox img{
+    width: 100%;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+
+.bestCar .imgBox img:hover{
+    transform: scale(1.1);
+}
+
+.bestCar .infoBox{
+    padding-left: 35px;
+    display: flex;
+    width: calc(55% - 10px);
+    flex-direction: column;
+    gap: 20px;
+}
+.bestCar .infoBox span{}
+.bestCar .infoBox h2{
+    width: 90%;
+}
+.bestCar .infoBox p{
+    width: 80%;
+    font-size: 16px;
+    margin: 5px 0px 20px;
+    line-height: 24px;
+}
+.bestCar .infoBox a{
+    font-size: 14px;
+    text-decoration: none;
+    color: white;
+    background: var(--cus-red);
+    padding: 12px 18px;
+    border-radius: 40px;
+    font-weight: 500;
+    width: 16%;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+/* bestCar section css end */
+
+/* callSection css start */
+
+.callSection{
+    padding: 75px 0px 120px;
+}
+.callSection .flex{
+    background: var(--cus-red);
+    padding: 19px 50px;
+    border-radius: 35px;
+    position: relative;
+}
+.callSection .flex .mainBox{
+    bottom: 10;
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row;
+    position: relative;
+    padding: 55px 50px;
+}
+.callSection .flex .mainBox .info{
+    width: 70%;
+    max-width: 70%;
+}
+.callSection .flex .mainBox .info h2{
+    font-size: 48px;
+    width: 70%;
+    line-height: 68px;
+    text-transform: capitalize;
+    color: #fff;
+    font-weight: 800;
+}
+.callSection .flex .mainBox .info .btnGrpup{
+    margin: 30px 0px 0px;
+    width: 75%;
+    display: flex;
+    justify-content: space-between;
+}
+.callSection .flex .mainBox .info .btnGrpup a{
+    font-size: 26px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 20px 30px;
+    background: #ffffff00;
+    border-radius: 10px;
+    color: #ffffff;
+    transition: 0.3s;
+}
+
+.callSection .flex .mainBox .info .btnGrpup a:hover{
+    background: white;
+    color: var(--cus-red);
+    transition-duration: 0.3s;
+}
+
+.callSection .flex .mainBox .img{
+    display: flex;
+    height: 470px;
+    width: 100%;
+    padding: 0px;
+    max-width: 30%;
+    justify-content: center;
+    position: absolute;
+    top: -17%;
+    right: 64px;
+    overflow: hidden;
+    border-radius: 30px;
+}
+.callSection .flex .mainBox .img img{
+    width: 100%;
+    border-radius: 40px;
+    height: 100%;
+    transition: 0.3s;
+}
+
+.callSection .flex .mainBox .img img:hover{
+    transform: scale(1.1);
+}
+
+.roundBox{
+    width: 250px;
+    height: 250px;
+    background-color: #FF9446;
+    position: absolute;
+    z-index: 0;
+    right: 28%;
+    bottom: -25%;
+    border-radius: 50%;
+}
+
+.imgg {
+    position: absolute;
+    right: 30%;
+    top: 15%;
+    width: 200px;
+    height: 200px;
+}
+
+
+.imgg img {
+    width: 55%;
+    height: 49%;
+}
+
+/* callSection css end */
+
+/* footer start */
+footer{
+    padding: 20px 0px;
+    background: var(--cus-red);
+}
+footer .copyRighr{
+    display: flex;
+    justify-content: center;
+}
+footer .copyRighr h6{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+    word-spacing: 4.4px;
+    letter-spacing: 1.3px;
+    line-height: 28px;
+}
+
+
+/* footer end */
